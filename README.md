@@ -1,2 +1,2 @@
 # Password-Generator
-this is a simple short code to generate a password
+This is a simple short code to generate a password
